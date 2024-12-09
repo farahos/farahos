@@ -47,7 +47,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(166, 52);
             this.button2.TabIndex = 1;
-            this.button2.Text = "soo dhawaw macamiil";
+            this.button2.Text = "yes tuna";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // Form1
